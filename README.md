@@ -1,4 +1,4 @@
-# ImageEnhancementApplication
+# Image Enhancement Application
 
 This project proposes the development of an image processing application using Python and OpenCV for the course Fundamental of Image Processing. The application is intend to function as a simple image editor that allows the users to upload, edit and save images through an interactive graphical user interface. It will include basic editing controls such as undo, redo and reset as well as image processing features such as image adjustment, effects, cropping and overlays. The goal of this project is to apply fundamental image processing technique in a practical and user-friendly environment.
 
